@@ -34,14 +34,10 @@ a{
 a:hover{
     text-decoration: underline;
 }
-section.normal{
-    padding-bottom: 10vh;
-    padding-top: 10vh;
-    
-}
+
+
 section.imagem{
-    padding-top: 10vh;
-    padding-bottom: 10vh;
+    
     padding-left: 4vh;
     color: white;
     background-position: right center;
@@ -53,6 +49,8 @@ section{
     line-height: 2em;
     font-family:  Sriracha, Geneva, Tahoma, sans-serif;
     padding-left: 30px;
+    padding-top: 10vh;
+    padding-bottom: 10vh;
     
 }
 #img01{
